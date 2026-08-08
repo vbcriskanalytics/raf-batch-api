@@ -1,0 +1,28 @@
+{
+  "api_usage_log_id": 439229,
+  "score": {
+    "Demographic": {
+      "Age and Gender": { "MA_Payment": 3453.58, "RAF_Score": 0.332 }
+    },
+    "Diagnosis": {
+      "HCC 226": { "MA_Payment": 3744.84, "RAF_Score": 0.36 },
+      "HCC 23":  { "MA_Payment": 1934.84, "RAF_Score": 0.186 },
+      "HCC 280": { "MA_Payment": 3318.35, "RAF_Score": 0.319 },
+      "HCC 328": { "MA_Payment": "1321.10", "RAF_Score": 0.127 },
+      "HCC 38":  { "MA_Payment": 1726.79, "RAF_Score": 0.166 },
+      "HCC Count": { "Count": 5, "MA_Payment": 520.12, "RAF_Score": 0.05 }
+    },
+    "Disease Interaction": {
+      "DIABETES_HF": { "MA_Payment": 1165.06, "RAF_Score": 0.112 },
+      "HF_CHR_LUNG": { "MA_Payment": 811.38,  "RAF_Score": 0.078 },
+      "HF_KIDNEY":   { "MA_Payment": 1830.81, "RAF_Score": 0.176 }
+    },
+    "Total": {
+      "Grand Total": { "MA_Payment": 19826.87, "RAF_Score": 1.906 },
+      "MA_Adjusted": { "MA_Payment": 17485.55, "RAF_Score": 1.681 },
+      "Normalized":  { "MA_Payment": 18581.88, "RAF_Score": 1.786 }
+    }
+  },
+  "score_cnt": 9,
+  "status": "success"
+}

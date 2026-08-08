@@ -1,0 +1,21 @@
+ID,Gender,Age,ICD-10 CM Code,Flag
+1,Male,65,E1122,Last_Year
+1,Male,65,E119,Last_Year
+1,Male,65,C61,Last_Year
+1,Male,65,N183,Current_Year
+1,Male,65,I509,Current_Year
+1,Male,65,J449,Current_Year
+2,Male,84,E1142,Last_Year
+2,Male,84,E1151,Last_Year
+2,Male,84,I480,Last_Year
+2,Male,84,L89814,Current_Year
+2,Male,84,J449,Current_Year
+3,Female,72,E11621,Last_Year
+3,Female,72,L97509,Last_Year
+3,Female,72,I480,Last_Year
+3,Female,72,I5022,Last_Year
+3,Female,72,J449,Current_Year
+3,Female,72,J9503,Current_Year
+3,Female,72,D61818,Current_Year
+3,Female,72,E1122,Current_Year
+3,Female,72,N186,Current_Year

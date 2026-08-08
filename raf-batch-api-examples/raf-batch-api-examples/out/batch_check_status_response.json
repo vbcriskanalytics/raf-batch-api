@@ -1,0 +1,8 @@
+{
+  "code": 200,
+  "raf_batch_id": 3400,
+  "status": "Completed",
+  "available hits": 598002,
+  "message": "Info: File processing completed.",
+  "download_url": "https://www.vbcriskanalytics.com/raf-batch-api/download/3400"
+}
