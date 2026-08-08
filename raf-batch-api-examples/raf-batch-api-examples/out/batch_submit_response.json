@@ -1,7 +1,0 @@
-{
-  "code": 201,
-  "raf_batch_id": 3400,
-  "status": "Queued",
-  "message": "Info: File is queued for processing.",
-  "check_status_url": "https://www.vbcriskanalytics.com/raf-batch-api/check-status/3400"
-}
